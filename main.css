@@ -1,0 +1,27 @@
+body {
+	font-family:Verdana;
+	font-size:12px;
+}
+
+header {
+	border-bottom:5px solid #585657;
+}
+
+header a {
+	color:red;
+	text-decoration:none;
+}
+
+.content {
+	margin-top:5px;
+}
+
+table {
+	border-collapse:collapse;
+}
+
+th, td {
+	border:1px solid black;
+	min-width:150px;
+	text-align:center;
+}
